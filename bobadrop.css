@@ -1,6 +1,7 @@
 /*I forgot I needed to specify the element which is getting styles oops*/
 h1{
-    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: chocolate;
 }
 h2{
     font-family:Verdana, Geneva, Tahoma, sans-serif
