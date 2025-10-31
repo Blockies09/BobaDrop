@@ -1,0 +1,15 @@
+/*I forgot I needed to specify the element which is getting styles oops*/
+h1{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+h2{
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+p{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
+}
+img{
+    width: 120px;
+    height: 120px;
+}
